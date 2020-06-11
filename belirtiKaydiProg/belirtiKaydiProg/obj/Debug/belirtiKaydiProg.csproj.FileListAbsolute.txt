@@ -1,0 +1,56 @@
+C:\Users\og_gx\Desktop\simayOdev\belirtiKaydiProg\belirtiKaydiProg\bin\Debug\belirtiKaydiProg.exe.config
+C:\Users\og_gx\Desktop\simayOdev\belirtiKaydiProg\belirtiKaydiProg\bin\Debug\belirtiKaydiProg.exe
+C:\Users\og_gx\Desktop\simayOdev\belirtiKaydiProg\belirtiKaydiProg\bin\Debug\belirtiKaydiProg.pdb
+C:\Users\og_gx\Desktop\simayOdev\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.csprojAssemblyReference.cache
+C:\Users\og_gx\Desktop\simayOdev\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.Form1.resources
+C:\Users\og_gx\Desktop\simayOdev\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.Properties.Resources.resources
+C:\Users\og_gx\Desktop\simayOdev\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.csproj.GenerateResource.cache
+C:\Users\og_gx\Desktop\simayOdev\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.csproj.CoreCompileInputs.cache
+C:\Users\og_gx\Desktop\simayOdev\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.exe
+C:\Users\og_gx\Desktop\simayOdev\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.pdb
+C:\Users\Casper\Desktop\simayOdev\belirtiKaydiProg\belirtiKaydiProg\bin\Debug\belirtiKaydiProg.exe.config
+C:\Users\Casper\Desktop\simayOdev\belirtiKaydiProg\belirtiKaydiProg\bin\Debug\belirtiKaydiProg.exe
+C:\Users\Casper\Desktop\simayOdev\belirtiKaydiProg\belirtiKaydiProg\bin\Debug\belirtiKaydiProg.pdb
+C:\Users\Casper\Desktop\simayOdev\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.csprojAssemblyReference.cache
+C:\Users\Casper\Desktop\simayOdev\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.Form1.resources
+C:\Users\Casper\Desktop\simayOdev\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.Properties.Resources.resources
+C:\Users\Casper\Desktop\simayOdev\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\simayOdev\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.exe
+C:\Users\Casper\Desktop\simayOdev\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.pdb
+C:\Users\Casper\Desktop\nesneödev\belirtiKaydiProg\belirtiKaydiProg\bin\Debug\belirtiKaydiProg.exe.config
+C:\Users\Casper\Desktop\nesneödev\belirtiKaydiProg\belirtiKaydiProg\bin\Debug\belirtiKaydiProg.exe
+C:\Users\Casper\Desktop\nesneödev\belirtiKaydiProg\belirtiKaydiProg\bin\Debug\belirtiKaydiProg.pdb
+C:\Users\Casper\Desktop\nesneödev\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.csprojAssemblyReference.cache
+C:\Users\Casper\Desktop\nesneödev\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.Form1.resources
+C:\Users\Casper\Desktop\nesneödev\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.Properties.Resources.resources
+C:\Users\Casper\Desktop\nesneödev\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\nesneödev\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.exe
+C:\Users\Casper\Desktop\nesneödev\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.pdb
+C:\Users\Casper\Desktop\BEYZA MURAT B181306001 NDP\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.csprojAssemblyReference.cache
+C:\Users\Casper\Desktop\BEYZA MURAT B181306001 NDP\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.Form1.resources
+C:\Users\Casper\Desktop\BEYZA MURAT B181306001 NDP\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.Properties.Resources.resources
+C:\Users\Casper\Desktop\BEYZA MURAT B181306001 NDP\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\BEYZA MURAT B181306001 NDP\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.exe
+C:\Users\Casper\Desktop\BEYZA MURAT B181306001 NDP\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.pdb
+C:\Users\Casper\Desktop\BEYZA MURAT B181306001 NDP\belirtiKaydiProg\belirtiKaydiProg\bin\Debug\belirtiKaydiProg.exe.config
+C:\Users\Casper\Desktop\BEYZA MURAT B181306001 NDP\belirtiKaydiProg\belirtiKaydiProg\bin\Debug\belirtiKaydiProg.exe
+C:\Users\Casper\Desktop\BEYZA MURAT B181306001 NDP\belirtiKaydiProg\belirtiKaydiProg\bin\Debug\belirtiKaydiProg.pdb
+C:\Users\Casper\Desktop\BEYZA MURAT B181306001 NDP (2) (2)\BEYZA MURAT B181306001 NDP\belirtiKaydiProg\belirtiKaydiProg\bin\Debug\belirtiKaydiProg.exe.config
+C:\Users\Casper\Desktop\BEYZA MURAT B181306001 NDP (2) (2)\BEYZA MURAT B181306001 NDP\belirtiKaydiProg\belirtiKaydiProg\bin\Debug\belirtiKaydiProg.exe
+C:\Users\Casper\Desktop\BEYZA MURAT B181306001 NDP (2) (2)\BEYZA MURAT B181306001 NDP\belirtiKaydiProg\belirtiKaydiProg\bin\Debug\belirtiKaydiProg.pdb
+C:\Users\Casper\Desktop\BEYZA MURAT B181306001 NDP (2) (2)\BEYZA MURAT B181306001 NDP\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.csprojAssemblyReference.cache
+C:\Users\Casper\Desktop\BEYZA MURAT B181306001 NDP (2) (2)\BEYZA MURAT B181306001 NDP\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.Form1.resources
+C:\Users\Casper\Desktop\BEYZA MURAT B181306001 NDP (2) (2)\BEYZA MURAT B181306001 NDP\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.Properties.Resources.resources
+C:\Users\Casper\Desktop\BEYZA MURAT B181306001 NDP (2) (2)\BEYZA MURAT B181306001 NDP\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\BEYZA MURAT B181306001 NDP (2) (2)\BEYZA MURAT B181306001 NDP\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.exe
+C:\Users\Casper\Desktop\BEYZA MURAT B181306001 NDP (2) (2)\BEYZA MURAT B181306001 NDP\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.pdb
+C:\Users\og_gx\Desktop\covid19HastalikBelirtiProgramı\belirtiKaydiProg\belirtiKaydiProg\bin\Debug\belirtiKaydiProg.exe.config
+C:\Users\og_gx\Desktop\covid19HastalikBelirtiProgramı\belirtiKaydiProg\belirtiKaydiProg\bin\Debug\belirtiKaydiProg.exe
+C:\Users\og_gx\Desktop\covid19HastalikBelirtiProgramı\belirtiKaydiProg\belirtiKaydiProg\bin\Debug\belirtiKaydiProg.pdb
+C:\Users\og_gx\Desktop\covid19HastalikBelirtiProgramı\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.csprojAssemblyReference.cache
+C:\Users\og_gx\Desktop\covid19HastalikBelirtiProgramı\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.Form1.resources
+C:\Users\og_gx\Desktop\covid19HastalikBelirtiProgramı\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.Properties.Resources.resources
+C:\Users\og_gx\Desktop\covid19HastalikBelirtiProgramı\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.csproj.GenerateResource.cache
+C:\Users\og_gx\Desktop\covid19HastalikBelirtiProgramı\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.csproj.CoreCompileInputs.cache
+C:\Users\og_gx\Desktop\covid19HastalikBelirtiProgramı\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.exe
+C:\Users\og_gx\Desktop\covid19HastalikBelirtiProgramı\belirtiKaydiProg\belirtiKaydiProg\obj\Debug\belirtiKaydiProg.pdb
